@@ -1,5 +1,5 @@
 {
-    "name": "bengoruser/swift-mailer-bridge",
+    "name": "bengoruser/swiftmailer-bridge",
     "description": "Adapter to make User compatible with Doctrine ORM",
     "keywords": ["user", "adapter", "mailing", "swift-mailer", "ddd"],
     "license": "MIT",
@@ -24,7 +24,8 @@
     ],
     "require": {
         "php": "^5.5 || ^7.0",
-        "bengor/user": "dev-refactor/decouple-from-third-party-libraries"
+        "bengor/user": "dev-refactor/decouple-from-third-party-libraries",
+        "swiftmailer/swiftmailer": "^5.4"
     },
     "require-dev": {
         "fabpot/php-cs-fixer": "^1.11",

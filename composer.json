@@ -1,6 +1,6 @@
 {
-    "name": "bengoruser/swiftmailer-bridge",
-    "description": "Adapter to make User compatible with Doctrine ORM",
+    "name": "bengor-user/swift-mailer-bridge",
+    "description": "Adapter to make User compatible with SwiftMailer",
     "keywords": ["user", "adapter", "mailing", "swift-mailer", "ddd"],
     "license": "MIT",
     "type": "library",
@@ -16,15 +16,9 @@
             "homepage": "http://gorkalaucirica.net"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/BenGorUser/User"
-        }
-    ],
     "require": {
         "php": "^5.5 || ^7.0",
-        "bengor/user": "dev-refactor/decouple-from-third-party-libraries",
+        "bengor-user/user": "0.6.x-dev",
         "swiftmailer/swiftmailer": "^5.4"
     },
     "require-dev": {

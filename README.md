@@ -3,9 +3,9 @@
 
 [![Build Status](https://travis-ci.org/BenGorUser/SwiftMailerBridge.svg?branch=master)](https://travis-ci.org/BenGorUser/SwiftMailerBridge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BenGorUser/SwiftMailerBridge/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/BenGorUser/SwiftMailerBridge/?branch=master)
-[![Total Downloads](https://poser.pugx.org/bengoruser/swiftmailer-bridge/downloads)](https://packagist.org/packages/bengoruser/swiftmailer-bridge/)
-[![Latest Stable Version](https://poser.pugx.org/bengoruser/swiftmailer-bridge//v/stable.svg)](https://packagist.org/packages/bengoruser/swiftmailer-bridge/)
-[![Latest Unstable Version](https://poser.pugx.org/bengoruser/swiftmailer-bridge//v/unstable.svg)](https://packagist.org/packages/bengoruser/swiftmailer-bridge/)
+[![Total Downloads](https://poser.pugx.org/bengor-user/swift-mailer-bridge/downloads)](https://packagist.org/packages/bengor-user/swift-mailer-bridge/)
+[![Latest Stable Version](https://poser.pugx.org/bengor-user/swift-mailer-bridge/v/stable.svg)](https://packagist.org/packages/bengor-user/swift-mailer-bridge/)
+[![Latest Unstable Version](https://poser.pugx.org/bengor-user/swift-mailer-bridge/v/unstable.svg)](https://packagist.org/packages/bengor-user/swift-mailer-bridge/)
 
 ##Requirements
 PHP >= 5.5
@@ -13,7 +13,7 @@ PHP >= 5.5
 ##Installation
 The easiest way to install this component is using [Composer][6]
 ```bash
-$ composer require bengoruser/swiftmailer-bridge
+$ composer require bengor-user/swift-mailer-bridge
 ```
 
 ##Documentation
@@ -52,7 +52,7 @@ This library is created by:
 **@gorkalaucirica** - [gorka.lauzirika@gmail.com](mailto:gorka.lauzirika@gmail.com)
 
 ##Licensing Options
-[![License](https://poser.pugx.org/bengoruser/swiftmailer-bridge//license.svg)](https://github.com/BenGorUser/SwiftMailerBridge/blob/master/LICENSE)
+[![License](https://poser.pugx.org/bengor-user/swift-mailer-bridge/license.svg)](https://github.com/BenGorUser/SwiftMailerBridge/blob/master/LICENSE)
 
 [1]: http://www.phpspec.net/
 [2]: http://symfony.com/doc/current/contributing/code/index.html

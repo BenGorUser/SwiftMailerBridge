@@ -12,9 +12,9 @@
 
 namespace BenGorUser\SwiftMailerBridge\Infrastructure\Mailing;
 
-use BenGor\User\Domain\Model\UserEmail;
-use BenGor\User\Domain\Model\UserMailable;
-use BenGor\User\Domain\Model\UserMailer;
+use BenGorUser\User\Domain\Model\UserEmail;
+use BenGorUser\User\Domain\Model\UserMailable;
+use BenGorUser\User\Domain\Model\UserMailer;
 
 /**
  * SwiftMailer user mailer class.

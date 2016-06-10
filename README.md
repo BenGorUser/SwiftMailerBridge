@@ -17,9 +17,7 @@ $ composer require bengor-user/swift-mailer-bridge
 ```
 
 ##Documentation
-All the documentation is stored in the `docs` folder.
-
-[Show me the docs!](docs/index.md)
+All the documentation is stored inside the [user library](https://github.com/BenGorUser/User/blob/master/docs/index.md).
 
 ##Tests
 This library is completely tested by **[PHPSpec][1], SpecBDD framework for PHP**.
@@ -30,6 +28,10 @@ $ vendor/bin/phpspec run -fpretty
 ```
 
 ##Contributing
+If you have any doubt or maybe you want to share some opinion, you can use our **Gitter** chat.
+
+[![Join the chat at https://gitter.im/BenGorUser/User](https://badges.gitter.im/BenGorUser/User.svg)](https://gitter.im/BenGorUser/User?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This library follows PHP coding standards, so pull requests need to execute the Fabien Potencier's [PHP-CS-Fixer][5].
 Furthermore, if the PR creates some not-PHP file remember that you have to put the license header manually. In order
 to simplify we provide a Composer script that wraps all the commands related with this process.
